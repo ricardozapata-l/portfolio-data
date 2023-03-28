@@ -1,0 +1,185 @@
+{
+    "work-data":[
+        {
+            "id": "expwrk000",
+            "start": 2012,
+            "end": 2012,
+            "place": "Secretaría de Comunicaciones y Transportes",
+            "area": "Dirección General de Aeronáutica Civil",
+            "position": "Intern",
+            "description": "As part of the then department of civil aeronautics I mainly helped with the tasks involved around the general procedures and data archival for commercial and non-commercial flights of propeller and small jet engine based aircraft with the national airspace.",
+            "projects":[
+                {
+                    "project-id": "expwrk000prjt000",
+                    "title": "Data Archiving",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk000prjt001",
+                    "title": "Request Procedure Approval",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                }
+            ]
+        },
+        {
+            "id": "expwrk001",
+            "start": 2018,
+            "end": 2019,
+            "place": "ICNIAM AC",
+            "area": "Administration",
+            "position": "Administration Assistant",
+            "description": "During my time with the organization I mainly helped around with the day to day tasks of the administration. As an organization focused on certification and continuous education I also helped with the preparation of the course material as well.",
+            "projects":[
+                {
+                    "project-id": "expwrk001prjt000",
+                    "title": "",
+                    "problem": "Membership Tracking",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk001prjt001",
+                    "title": "Course Material Preparation",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk001prjt002",
+                    "title": "Administration Tasks",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                }
+                
+            ]
+        },
+        {
+            "id": "expwrk002",
+            "start": 2020,
+            "end": 2022,
+            "place": "Incode",
+            "area": "Customer Success & Operations",
+            "position": "Business Analyst",
+            "description": "Joining prior to its series B funding, I formed part of the Customer Success and Operations team as their first business analyst during the company's early stages and up until its unicorn status evaluation. Being part of the company's formative stages I had the opportunity to partake in numerous projects in various capabilities throughout its growth, within and outside my team. Notably, as an identification authentication service, I took part in the expansion of the platform's accepted identifications throughout it's series B and C funding helping secure additional contracts in currently and new supported countries.",
+            "projects":[
+                {
+                    "project-id": "expwrk002prjt000",
+                    "title": "Template Expansion Project",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk002prjt001",
+                    "title": "Session Review App",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk002prjt002",
+                    "title": "Billable Hours Report App",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk002prjt003",
+                    "title": "HR Data Reporting App",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk002prjt004",
+                    "title": "Dashboard Generation",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk002prjt005",
+                    "title": "General Analysis",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk002prjt006",
+                    "title": "Process Development & Mentoring",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                }
+            ]
+        },
+        {
+            "id": "expwrk003",
+            "start": 2022,
+            "end": 2023,
+            "place": "BigCommerce",
+            "area": "Financial Operations",
+            "position": "Business Operations Analyst I",
+            "description": "As part of the Financial Operations team I joined BigCommerce to aid with their Partner Program. Helping with both the marketplace partners and agency partners with regards to the financial relationship between both parties. Reviewing process and helping them streamline and automate when possible to reduce friction and delays between interactions involving both sides. Helping overall in keeping positive relationships between BigCommerce and it's Partners. Being part of the overall operations I also took part in the contract provisioning of the platform's enterprise customers.",
+            "projects":[
+                {
+                    "project-id": "expwrk003prjt000",
+                    "title": "Partners RevShare Reporting Congregator App",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk003prjt001",
+                    "title": "Documentation of Established Processes",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk003prjt002",
+                    "title": "User Acceptance Testing",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk003prjt003",
+                    "title": "Report Automation",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                },
+                {
+                    "project-id": "expwrk003prjt004",
+                    "title": "General Reporting",
+                    "problem": "",
+                    "solution": "",
+                    "learned": "",
+                    "tools": ""
+                }
+            ]
+        }
+    ]
+}

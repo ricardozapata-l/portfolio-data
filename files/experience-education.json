@@ -1,0 +1,34 @@
+{
+    "work-data":[
+        {
+            "id": "expedu000",
+            "start": 2012,
+            "end": 2012,
+            "place": "Instituto Politécnico Nacional",
+            "area": "CECyT n.º 13 “Ricardo Flores Magón",
+            "position": "Computer Science",
+            "description": "Vocational highschool with a minor in Computer Science. Completing courses in fields such as:",
+            "projects":[]
+        },
+        {
+            "id": "expedu001",
+            "start": 2013,
+            "end": 2018,
+            "place": "Instituto Politécnico Nacional",
+            "area": "Escuela Superior de Ingeniería y Arquitectura",
+            "position": "Civil Engineering",
+            "description": "Bachelor's degree in Civil Engineering with a focus on Structural Engineering. Completing courses in fields such as:",
+            "projects":[]
+        },
+        {
+            "id": "expedu002",
+            "start": 2019,
+            "end": 2019,
+            "place": "Instituto Politécnico Nacional",
+            "area": "Escuela Superior de Ingeniería y Arquitectura",
+            "position": "Cost Engineering",
+            "description": "Postgraduate program in Computer Aided Cost Engineering in regards to Public Infrastructure Tenders. Completing courses in fields such as:",
+            "projects":[]
+        }
+    ]
+}
