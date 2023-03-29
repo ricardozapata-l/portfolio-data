@@ -9,5 +9,153 @@
         "Prior to shift in industries I also possess experience working in the public sector as well for non-profit organizations.",
         "I enjoy working on projects that challenge me to learn and acquire new abilities. I always look for improvement where possible.",
         "I've worked with people form across the globe and as such I always enjoy working with people from different backgrounds. There is always something new to learn. Fully fluent in English and Spanish, I also take pleasure in learning new languages and about the culture of different countries."
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "level": 10
+        },
+        {
+            "language": "Spanish",
+            "level": 10
+        },
+        {
+            "language": "German",
+            "level": 5
+        },
+        {
+            "language": "Korean",
+            "level": 1
+        }
+    ],
+    "tools": [
+        {
+            "tool": "<b>Python</b>",
+            "icon": "['fab', 'python']"
+        },
+        {
+            "tool": "Pandas (python)",
+            "icon": "['fab', 'python']"
+        },
+        {
+            "tool": "Python-pptx (python)",
+            "icon": "['fab', 'python']"
+        },
+        {
+            "tool": "Python-docx (python)",
+            "icon": "['fab', 'python']"
+        },
+        {
+            "tool": "Seaborn (python)",
+            "icon": "['fab', 'python']"
+        },
+        {
+            "tool": "Simple-salesforce (python)",
+            "icon": "['fab', 'python']"
+        },
+        {
+            "tool": "Boto3 (python)",
+            "icon": "['fab', 'python']"
+        },
+        {
+            "tool": "Snowflake Connector (python)",
+            "icon": "['fab', 'python']"
+        },
+        {
+            "tool": "Rapidfuzz (python)",
+            "icon": "['fab', 'python']"
+        },
+        {
+            "tool": "RestAPIs",
+            "icon": "['fas', 'code']"
+        },
+        {
+            "tool": "HTML",
+            "icon": "['fab', 'html5']"
+        },
+        {
+            "tool": "CSS",
+            "icon": "['fab', 'css3-alt']"
+        },
+        {
+            "tool": "Javascript",
+            "icon": "['fab', 'square-js']"
+        },
+        {
+            "tool": "Vue",
+            "icon": "['fab', 'vuejs']"
+        },
+        {
+            "tool": "SQL",
+            "icon": "['fas', 'database']"
+        },
+        {
+            "tool": "AWS",
+            "icon": "['fab', 'aws']"
+        },
+        {
+            "tool": "Redshift (AWS)",
+            "icon": "['fab', 'aws']"
+        },
+        {
+            "tool": "Athena (AWS)",
+            "icon": "['fab', 'aws']"
+        },
+        {
+            "tool": "Snowflake",
+            "icon": "['fas', 'gear']"
+        },
+        {
+            "tool": "Excel",
+            "icon": "['fas', 'file-excel']"
+        },
+        {
+            "tool": "Powerpoint",
+            "icon": "['fas', ''file-powerpoint]"
+        },
+        {
+            "tool": "Word",
+            "icon": "['fas', 'file-word']"
+        },
+        {
+            "tool": "Salesforce",
+            "icon": "['fab', 'salesforce']"
+        },
+        {
+            "tool": "Stripe",
+            "icon": "['fab', 'stripe']"
+        },
+        {
+            "tool": "Zuora",
+            "icon": "['fas', 'gear']"
+        },
+        {
+            "tool": "Imparter",
+            "icon": "['fas', 'gear']"
+        },
+        {
+            "tool": "Marketo",
+            "icon": "['fas', 'gear']"
+        },
+        {
+            "tool": "Jira",
+            "icon": "['fab', 'jira']"
+        },
+        {
+            "tool": "Confluence",
+            "icon": "['fab', 'confluence']"
+        },
+        {
+            "tool": "Asana",
+            "icon": "['fas', 'gear']"
+        },
+        {
+            "tool": "Tableau",
+            "icon": "['fas', 'gear']"
+        },
+        {
+            "tool": "Linux",
+            "icon": "['fab', 'linux']"
+        }
     ]
 }    

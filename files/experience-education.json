@@ -5,9 +5,9 @@
             "start": 2010,
             "end": 2013,
             "place": "Instituto Politécnico Nacional",
-            "area": "CECyT n.º 13 “Ricardo Flores Magón",
-            "position": "Computer Science",
-            "description": "Vocational highschool with a minor in Computer Science. Completing courses in fields such as:",
+            "area": "CECyT n.º13 \"Ricardo Flores Magón\"",
+            "title": "Computer Science",
+            "description": "Vocational highschool with a minor in Computer Science. Completing courses in topics such as: C, C++, C#, HTML/CSS, SQL, Microsoft Office & Adobe program suites, computer maintenance & general IT skills.",
             "projects":[]
         },
         {
@@ -16,8 +16,8 @@
             "end": 2018,
             "place": "Instituto Politécnico Nacional",
             "area": "Escuela Superior de Ingeniería y Arquitectura",
-            "position": "Civil Engineering",
-            "description": "Bachelor's degree in Civil Engineering with a focus on Structural Engineering. Completing courses in fields such as:",
+            "title": "Civil Engineering",
+            "description": "Bachelor's degree in Civil Engineering with a focus on Structural Engineering. Completing courses in fields such as: statistical analysis, management, structural/fluid/soil mechanics, geotechnics, hydraulics, materials science, sanitary & transportation works, topography, among others.",
             "projects":[]
         },
         {
@@ -26,8 +26,8 @@
             "end": 2019,
             "place": "Instituto Politécnico Nacional",
             "area": "Escuela Superior de Ingeniería y Arquitectura",
-            "position": "Cost Engineering",
-            "description": "Postgraduate program in Computer Aided Cost Engineering in regards to Public Infrastructure Tenders. Completing courses in fields such as:",
+            "title": "Cost Engineering",
+            "description": "Postgraduate program in Computer Aided Cost Engineering in regards to Public Infrastructure Tenders. Participated in a mock-up public infrastructure tender in accordance to Mexican norms & laws. Integrating blueprints, unit prices, job site scheduling within the accompanying requirements in the needed formats.",
             "projects":[]
         }
     ]

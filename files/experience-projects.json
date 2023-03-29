@@ -1,0 +1,54 @@
+{
+    "data":[
+        {
+            "id": "prjt000",
+            "start": "",
+            "end": "",
+            "place": "",
+            "area": "",
+            "title": "Bookmark Startpage",
+            "description": "I created a simple startpage to house a series of bookmarks of commonly used sites for work for easy access, using <b>HTML, CSS and Javascript</b>.",
+            "projects":[]
+        },
+        {
+            "id": "prjt001",
+            "start": "",
+            "end": "",
+            "place": "",
+            "area": "",
+            "title": "Reddit Scrapper",
+            "description": "I developed a tool to download and organize images, based on shape, from the r/analog subreddit to use as background images, using <b>Python, praw (Reddit API wrapper) and Beautiful Soup module</b>.",
+            "projects":[]
+        },
+        {
+            "id": "prjt002",
+            "start": "",
+            "end": "",
+            "place": "",
+            "area": "",
+            "title": "Personal Logo",
+            "description": "I made a personal and branding for myself using <b>Inkscape</b>.",
+            "projects":[]
+        },
+        {
+            "id": "prjt003",
+            "start": "",
+            "end": "",
+            "place": "",
+            "area": "",
+            "title": "Audio File Metadata Updater",
+            "description": "I developed a set of tools to help with reading, removing & updating the metadata of audio files (flac & mp3) and to help keep track of all files within a local database, using <b>Python and the Mutagen module</b>.",
+            "projects":[]
+        },
+        {
+            "id": "prjt004",
+            "start": "",
+            "end": "",
+            "place": "",
+            "area": "",
+            "title": "Vue Portfolio Site",
+            "description": "I created an online portfolio website using the <b>Vue framework</b>.",
+            "projects":[]
+        }
+    ]
+}
