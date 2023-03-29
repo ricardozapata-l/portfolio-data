@@ -7,7 +7,7 @@
             "place": "",
             "area": "",
             "title": "Bookmark Startpage",
-            "description": "I created a simple startpage to house a series of bookmarks of commonly used sites for work for easy access, using <span class="bold">HTML, CSS and Javascript</span>.",
+            "description": "I created a simple startpage to house a series of bookmarks of commonly used sites for work for easy access, using <span class=\"bold\">HTML, CSS and Javascript</span>.",
             "projects":[]
         },
         {
@@ -17,7 +17,7 @@
             "place": "",
             "area": "",
             "title": "Reddit Scrapper",
-            "description": "I developed a tool to download and organize images, based on shape, from the r/analog subreddit to use as background images, using <span class="bold">Python, praw (Reddit API wrapper) and Beautiful Soup module</span>.",
+            "description": "I developed a tool to download and organize images, based on shape, from the r/analog subreddit to use as background images, using <span class=\"bold\">Python, praw (Reddit API wrapper) and Beautiful Soup module</span>.",
             "projects":[]
         },
         {
@@ -27,7 +27,7 @@
             "place": "",
             "area": "",
             "title": "Personal Logo",
-            "description": "I made a personal and branding for myself using <span class="bold">Inkscape</span>.",
+            "description": "I made a personal and branding for myself using <span class=\"bold\">Inkscape</span>.",
             "projects":[]
         },
         {
@@ -37,7 +37,7 @@
             "place": "",
             "area": "",
             "title": "Audio File Metadata Updater",
-            "description": "I developed a set of tools to help with reading, removing & updating the metadata of audio files (flac & mp3) and to help keep track of all files within a local database, using <span class="bold">Python and the Mutagen module</span>.",
+            "description": "I developed a set of tools to help with reading, removing & updating the metadata of audio files (flac & mp3) and to help keep track of all files within a local database, using <span class=\"bold\">Python and the Mutagen module</span>.",
             "projects":[]
         },
         {
@@ -47,7 +47,7 @@
             "place": "",
             "area": "",
             "title": "Vue Portfolio Site",
-            "description": "I created an online portfolio website using the <span class="bold">Vue framework</span>.",
+            "description": "I created an online portfolio website using the <span class=\"bold\">Vue framework</span>.",
             "projects":[]
         }
     ]
