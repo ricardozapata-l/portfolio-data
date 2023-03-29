@@ -7,7 +7,7 @@
             "place": "",
             "area": "",
             "title": "Bookmark Startpage",
-            "description": "I created a simple startpage to house a series of bookmarks of commonly used sites for work for easy access, using <b>HTML, CSS and Javascript</b>.",
+            "description": "I created a simple startpage to house a series of bookmarks of commonly used sites for work for easy access, using <em>HTML, CSS and Javascript</em>.",
             "projects":[]
         },
         {
@@ -17,7 +17,7 @@
             "place": "",
             "area": "",
             "title": "Reddit Scrapper",
-            "description": "I developed a tool to download and organize images, based on shape, from the r/analog subreddit to use as background images, using <b>Python, praw (Reddit API wrapper) and Beautiful Soup module</b>.",
+            "description": "I developed a tool to download and organize images, based on shape, from the r/analog subreddit to use as background images, using <em>Python, praw (Reddit API wrapper) and Beautiful Soup module</em>.",
             "projects":[]
         },
         {
