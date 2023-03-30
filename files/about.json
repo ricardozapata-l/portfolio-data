@@ -31,35 +31,35 @@
             "icon": ["fab", "python"]
         },
         {
-            "tool": "Pandas (python)",
+            "tool": "Pandas",
             "icon": ["fab", "python"]
         },
         {
-            "tool": "Python-pptx (python)",
+            "tool": "Python-pptx",
             "icon": ["fab", "python"]
         },
         {
-            "tool": "Python-docx (python)",
+            "tool": "Python-docx",
             "icon": ["fab", "python"]
         },
         {
-            "tool": "Seaborn (python)",
+            "tool": "Seaborn",
             "icon": ["fab", "python"]
         },
         {
-            "tool": "Simple-salesforce (python)",
+            "tool": "Simple-salesforce",
             "icon": ["fab", "python"]
         },
         {
-            "tool": "Boto3 (python)",
+            "tool": "Boto3",
             "icon": ["fab", "python"]
         },
         {
-            "tool": "Snowflake Connector (python)",
+            "tool": "Snowflake Connector",
             "icon": ["fab", "python"]
         },
         {
-            "tool": "Rapidfuzz (python)",
+            "tool": "Rapidfuzz",
             "icon": ["fab", "python"]
         },
         {
