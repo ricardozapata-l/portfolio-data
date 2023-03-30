@@ -27,132 +27,132 @@
     ],
     "tools": [
         {
-            "tool": "<b>Python</b>",
-            "icon": "['fab', 'python']"
+            "tool": "Python",
+            "icon": ["fab", "python"]
         },
         {
             "tool": "Pandas (python)",
-            "icon": "['fab', 'python']"
+            "icon": ["fab", "python"]
         },
         {
             "tool": "Python-pptx (python)",
-            "icon": "['fab', 'python']"
+            "icon": ["fab", "python"]
         },
         {
             "tool": "Python-docx (python)",
-            "icon": "['fab', 'python']"
+            "icon": ["fab", "python"]
         },
         {
             "tool": "Seaborn (python)",
-            "icon": "['fab', 'python']"
+            "icon": ["fab", "python"]
         },
         {
             "tool": "Simple-salesforce (python)",
-            "icon": "['fab', 'python']"
+            "icon": ["fab", "python"]
         },
         {
             "tool": "Boto3 (python)",
-            "icon": "['fab', 'python']"
+            "icon": ["fab", "python"]
         },
         {
             "tool": "Snowflake Connector (python)",
-            "icon": "['fab', 'python']"
+            "icon": ["fab", "python"]
         },
         {
             "tool": "Rapidfuzz (python)",
-            "icon": "['fab', 'python']"
+            "icon": ["fab", "python"]
         },
         {
             "tool": "RestAPIs",
-            "icon": "['fas', 'code']"
+            "icon": ["fas", "code"]
         },
         {
             "tool": "HTML",
-            "icon": "['fab', 'html5']"
+            "icon": ["fab", "html5"]
         },
         {
             "tool": "CSS",
-            "icon": "['fab', 'css3-alt']"
+            "icon": ["fab", "css3-alt"]
         },
         {
             "tool": "Javascript",
-            "icon": "['fab', 'square-js']"
+            "icon": ["fab", "square-js"]
         },
         {
             "tool": "Vue",
-            "icon": "['fab', 'vuejs']"
+            "icon": ["fab", "vuejs"]
         },
         {
             "tool": "SQL",
-            "icon": "['fas', 'database']"
+            "icon": ["fas", "database"]
         },
         {
             "tool": "AWS",
-            "icon": "['fab', 'aws']"
+            "icon": ["fab", "aws"]
         },
         {
             "tool": "Redshift (AWS)",
-            "icon": "['fab', 'aws']"
+            "icon": ["fab", "aws"]
         },
         {
             "tool": "Athena (AWS)",
-            "icon": "['fab', 'aws']"
+            "icon": ["fab", "aws"]
         },
         {
             "tool": "Snowflake",
-            "icon": "['fas', 'gear']"
+            "icon": ["fas", "gear"]
         },
         {
             "tool": "Excel",
-            "icon": "['fas', 'file-excel']"
+            "icon": ["fas", "file-excel"]
         },
         {
             "tool": "Powerpoint",
-            "icon": "['fas', ''file-powerpoint]"
+            "icon": ["fas", "file-powerpoint"]
         },
         {
             "tool": "Word",
-            "icon": "['fas', 'file-word']"
+            "icon": ["fas", "file-word"]
         },
         {
             "tool": "Salesforce",
-            "icon": "['fab', 'salesforce']"
+            "icon": ["fab", "salesforce"]
         },
         {
             "tool": "Stripe",
-            "icon": "['fab', 'stripe']"
+            "icon": ["fab", "stripe"]
         },
         {
             "tool": "Zuora",
-            "icon": "['fas', 'gear']"
+            "icon": ["fas", "gear"]
         },
         {
             "tool": "Imparter",
-            "icon": "['fas', 'gear']"
+            "icon": ["fas", "gear"]
         },
         {
             "tool": "Marketo",
-            "icon": "['fas', 'gear']"
+            "icon": ["fas", "gear"]
         },
         {
             "tool": "Jira",
-            "icon": "['fab', 'jira']"
+            "icon": ["fab", "jira"]
         },
         {
             "tool": "Confluence",
-            "icon": "['fab', 'confluence']"
+            "icon": ["fab", "confluence"]
         },
         {
             "tool": "Asana",
-            "icon": "['fas', 'gear']"
+            "icon": ["fas", "gear"]
         },
         {
             "tool": "Tableau",
-            "icon": "['fas', 'gear']"
+            "icon": ["fas", "gear"]
         },
         {
             "tool": "Linux",
-            "icon": "['fab', 'linux']"
+            "icon": ["fab", "linux"]
         }
     ]
-}    
+}
