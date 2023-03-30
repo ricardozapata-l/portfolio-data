@@ -63,10 +63,6 @@
             "icon": ["fab", "python"]
         },
         {
-            "tool": "RestAPIs",
-            "icon": ["fas", "code"]
-        },
-        {
             "tool": "HTML",
             "icon": ["fab", "html5"]
         },
@@ -81,6 +77,10 @@
         {
             "tool": "Vue",
             "icon": ["fab", "vuejs"]
+        },
+        {
+            "tool": "RestAPIs",
+            "icon": ["fas", "code"]
         },
         {
             "tool": "SQL",
@@ -99,10 +99,6 @@
             "icon": ["fab", "aws"]
         },
         {
-            "tool": "Snowflake",
-            "icon": ["fas", "gear"]
-        },
-        {
             "tool": "Excel",
             "icon": ["fas", "file-excel"]
         },
@@ -113,6 +109,10 @@
         {
             "tool": "Word",
             "icon": ["fas", "file-word"]
+        },
+        {
+            "tool": "Snowflake",
+            "icon": ["fas", "gear"]
         },
         {
             "tool": "Salesforce",
