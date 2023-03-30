@@ -4,13 +4,16 @@
     ],
     "experience": {
         "title": "Business Operations Analyst I",
-        "location": "BigCommerce"
+        "location": "BigCommerce",
+        "router": "/experience-work"
     },
     "projects": {
-        "title": "Vue Portfolio Site"
+        "title": "Vue Portfolio Site",
+        "router": "/experience-projects"
     },
     "education": {
         "title": "Cost Engineering",
-        "location": "Instituto Politécnico Nacional"
+        "location": "Instituto Politécnico Nacional",
+        "router": "/experience-education"
     }
 }
