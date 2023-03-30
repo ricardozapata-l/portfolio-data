@@ -38,8 +38,8 @@
             "projects":[
                 {
                     "project-id": "expwrk001prjt000",
-                    "title": "",
-                    "problem": "Membership Tracking",
+                    "title": "Membership Tracking",
+                    "problem": "",
                     "solution": "",
                     "learned": "",
                     "tools": ["Excel"]
