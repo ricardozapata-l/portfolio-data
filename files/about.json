@@ -91,11 +91,11 @@
             "icon": ["fab", "aws"]
         },
         {
-            "tool": "Redshift (AWS)",
+            "tool": "Redshift",
             "icon": ["fab", "aws"]
         },
         {
-            "tool": "Athena (AWS)",
+            "tool": "Athena",
             "icon": ["fab", "aws"]
         },
         {
