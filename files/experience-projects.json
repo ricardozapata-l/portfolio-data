@@ -5,7 +5,7 @@
             "start": "",
             "end": "",
             "place": "",
-            "area": "",
+            "area": "test",
             "title": "Bookmark Startpage",
             "description": "I created a simple startpage to house a series of bookmarks of commonly used sites for work for easy access, using <span style='font-weight: bold;'>HTML, CSS and Javascript</span>.",
             "projects":[]
