@@ -17,7 +17,7 @@
             "place": "",
             "area": "",
             "title": "Reddit Scrapper",
-            "description": "I developed a tool to download and organize images, based on shape, from the r/analog subreddit to use as background images, using <span class=\"bold\">Python, praw (Reddit API wrapper) and Beautiful Soup module</span>.",
+            "description": "I developed a tool to download and organize images, based on shape, from the r/analog subreddit to use as background images, using <span class='bold'>Python, praw (Reddit API wrapper) and Beautiful Soup module</span>.",
             "projects":[]
         },
         {
