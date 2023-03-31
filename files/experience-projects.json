@@ -7,7 +7,7 @@
             "place": "",
             "area": "",
             "title": "Bookmark Startpage",
-            "description": "I created a simple startpage to house a series of bookmarks of commonly used sites for work for easy access, using <span class=\"bold\">HTML, CSS and Javascript</span>.",
+            "description": "I created a simple startpage to house a series of bookmarks of commonly used sites for work for easy access, using <span style="color:blue">HTML, CSS and Javascript</span>.",
             "projects":[]
         },
         {
