@@ -14,7 +14,6 @@
                     "title": "Data Archiving",
                     "problem": "The department need to keep track of certain documents used within the internal processes handled by the department.",
                     "solution": "I built a simple system to keep track of the documents in use and their respective archival location within the building, as well as organizing said documents for better access when needed.",
-                    "learned": "",
                     "tools": ["Excel", "File Archiving"]
                 },
                 {
@@ -22,7 +21,6 @@
                     "title": "Request Procedure Approval",
                     "problem": "One of the tasks handled by the department was to approve flight request for private and commercial proposes of small scaled aircraft.",
                     "solution": "I helped in the process that involved reading, verification and approval of the submitted paperwork and adjacent documentation.",
-                    "learned": "",
                     "tools": ["File Archiving", "Proprietary Tools"]
                 }
             ]
@@ -38,26 +36,23 @@
             "projects":[
                 {
                     "project-id": "expwrk001prjt000",
-                    "title": "Membership Tracking",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Excel"]
+                    "title": "Publicity/Organization Outreach",
+                    "problem": "Part of the role involved reaching out to potential new members and current members of the organization, to inform them of the activities being held as well as news of the organization.",
+                    "solution": "I helped create bulletins, presentations and other publicity to help reach out to the organization's members.",
+                    "tools": ["Powerpoint", "Canva"]
                 },
                 {
                     "project-id": "expwrk001prjt001",
                     "title": "Course Material Preparation",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["AutoCad", "Powerpoint", "Excel", "Canva"]
+                    "problem": "One of the main purposes of the organization is to provide prep-courses for official certifications.",
+                    "solution": "I prepared course material based on the official norms and code books, along with mockup questions an problems, that would be inline with the contents of the certification tests.",
+                    "tools": ["AutoCad", "Powerpoint", "Excel", "Word"]
                 },
                 {
                     "project-id": "expwrk001prjt002",
                     "title": "Administration Tasks",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
+                    "problem": "The main role was to assist in the general administration task of the organization.",
+                    "solution": "I assisted in the administration tasks of the organization, including operational and financial tasks.",
                     "tools": ["Excel", "Word"]
                 }
                 
@@ -70,70 +65,62 @@
             "place": "Incode",
             "area": "Customer Success & Operations",
             "title": "Business Analyst",
-            "description": "Joining prior to its series B funding, I formed part of the Customer Success and Operations team as their first business analyst during the company's early stages and up until its unicorn status evaluation. Being part of the company's formative stages I had the opportunity to partake in numerous projects in various capabilities throughout its growth, within and outside my team. Notably, as an identification authentication service, I took part in the expansion of the platform's accepted identifications throughout it's series B and C funding helping secure additional contracts in currently and new supported countries.",
+            "description": "Joining prior to its series B funding, I formed part of the Customer Success and Operations team as their first business analyst during the company's early stages and up until its unicorn status evaluation. Being part of the company's formative stages I had the opportunity to partake in numerous projects in various capabilities throughout its growth, within a set of cross functional teams. Notably, as an identification authentication service, I took part in the expansion of the platform's accepted identifications throughout it's series B and C funding helping secure additional contracts in currently and new supported countries.",
             "projects":[
                 {
                     "project-id": "expwrk002prjt000",
-                    "title": "Template Expansion Project",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
+                    "title": "Identification Expansion Project",
+                    "problem": "As a identification authentication platform, there was a need to expand the number of accepted user submitted identifications in order to expand globally. The implemented method was through a use of identification templates and a machine learning model that would properly identify and apply the corresponding template.",
+                    "solution": "I was in charge of coordinating the cross functional team that was implemented to handle the expansion process. It started with coordinating with the request made by the sales team and the designated customer success manager for each client, in order to establish priorities as to which new countries and identifications to handle next. I combed and reorganized the dedicated pipeline/backlog handled in it's dedicated Asana board. I would then relay with the team of internal and subcontracted data labelers to complete the  required templates. I would supervise the QA process after in order to approve a template. In case there was a need to complement the templates with additional code assistance, as well as deploying the final product, I would coordinate with the designated project engineers. The final identity availability would then be reported to the sales rep/csm. I also acted as the general project manager, keeping track of the overall process and progress of each country/identification. I presented scheduled reports to inform of the overall status of the expansion project.",
                     "tools": ["Asana", "Excel", "Tableau", "Python", "Proprietary Tools", "Powerpoint", "Python-pptx"]
                 },
                 {
                     "project-id": "expwrk002prjt001",
                     "title": "Session Review App",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Python", "Redshift (AWS)", "Athena (AWS)", "Python-pptx", "Incode-API", "Pandas (Python)"]
+                    "problem": "Part of the evaluation process for new clients was to review the sample/beta sessions routed through the platform. All failed sessions and successful sessions flagged as false positives had to be checked and presented to the customer to correctly evaluate the conversion rate. This process was originally fully manual through a series of screenshots of the platform's dashboard, which was not scalable with large data sets submitted for review." ,
+                    "solution": "I created a set of Python scripts that would generate the required documentation, by obtaining all required data through communication with the platform's API first and subsequently directly with the platform's data warehouse on second iteration of the tools. This allowed for a quicker and easily scalable return of the need items for final presentation with the client. Additionally the tools sets where used in other Operations projects regarding data evaluation.",
+                    "tools": ["Python", "Redshift (AWS)", "Athena (AWS)", "Python-pptx", "Incode-API", "Pandas (Python)", "APIs"]
                 },
                 {
                     "project-id": "expwrk002prjt002",
                     "title": "Billable Hours Report App",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Python", "Pandas (Python)", "Seaborn (Python)", "Python-docx", "Excel", "Harvest"]
+                    "problem": "In order to keep track of a client's SLA in regards to the contractual provided assistance hours a monthly report, detailing the registered used & billable hours was needed to be prepared and sent out to each client. This process was done previously by manually keeping track of all hours on a spreadsheet and creating each report individually.",
+                    "solution": "I develop a python script that would automatically gather the registered use of hours reported by the company's support engineers and CSM through the implemented time tracking software, through it's API. It would then calculate the total amount of hours used and generate the corresponding report for each client.",
+                    "tools": ["Python", "Pandas (Python)", "Seaborn (Python)", "Python-docx", "Excel", "Harvest", "APIs"]
                 },
                 {
                     "project-id": "expwrk002prjt003",
                     "title": "HR Data Reporting App",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Tableau", "Python", "Pandas (Python)", "Greenhouse", "BambooHR", "Lattice", "Excel"]
+                    "problem": "HR needed a way to  compile all employee data in order to build dashboards for their own internal tracking and reporting.",
+                    "solution": "I created a script that would gather and prepare the data found in the distinct services (BambooHR, Greenhouse, Lattice) used by HR, so that it could be easily imported to be used in Tableau to create dashboards.",
+                    "tools": ["Tableau", "Python", "Pandas (Python)", "Greenhouse", "BambooHR", "Lattice", "Excel", "APIs"]
                 },
                 {
                     "project-id": "expwrk002prjt004",
                     "title": "Dashboard Generation",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Tableau", "Excel", "Asana WebConnector", "Redshift (AWS)", "Athena (AWS)", "Incode-API"]
+                    "problem": "A wide set of dashboards were required to present the data on various projects.",
+                    "solution": "I built dashboards on data sets provided or gathered and cleaned up from distinct sources, made in excel and tableau.",
+                    "tools": ["Tableau", "Excel", "Asana WebConnector", "Redshift (AWS)", "Athena (AWS)", "Incode-API", "APIs"]
                 },
                 {
                     "project-id": "expwrk002prjt005",
                     "title": "General Analysis",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Pandas", "Pandas (Python)", "Redshift (AWS)", "Athena (AWS)", "Incode-API", "Excel", "Powerpoint"]
+                    "problem": "Analysis and deep dives on distinct sets of data and process were required on a regular basis.",
+                    "solution": "I gathered, cleaned and prepared data to be analyzed. I created documentation and presentations when required, as well as dashboards.",
+                    "tools": ["Pandas", "Pandas (Python)", "Redshift (AWS)", "Athena (AWS)", "Incode-API", "Excel", "Powerpoint", "Tableau", "APIs"]
                 },
                 {
                     "project-id": "expwrk002prjt006",
                     "title": "Process Development & Mentoring",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Word", "Spanish"]
+                    "problem": "New processes required to be set for new tasks.",
+                    "solution": "I helped develop and implement new processes and provided the accompanying documentation. I mentored new colleagues into such processes. On occasions such processes had to be implemented across teams of locally based subcontractors in which I needed to ensure that the implementation and communication provided for other teams of the company was delivered, in such instances I need to translate between all parties.",
+                    "tools": ["Word", "Translation"]
                 },
                 {
                     "project-id": "expwrk002prjt007",
                     "title": "Data Collection",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
+                    "problem": "In order to implement and improve the Machine Learning models required to expand the platform's services there was a need to recollect, as largest as possible, sets of data to feed into said models.",
+                    "solution": "I recollected data through various means, from setting up surveys to searching and scrapping websites.",
                     "tools": ["SurveyMonkey", "Document Checker", "Google", "Excel", "Python", "Beautiful Soup (Python)", "Pandas (Python)"] 
                 }
             ]
@@ -145,54 +132,57 @@
             "place": "BigCommerce",
             "area": "Financial Operations",
             "title": "Business Operations Analyst I",
-            "description": "As part of the Financial Operations team I joined BigCommerce to aid with their Partner Program. Helping with both the marketplace partners and agency partners with regards to the financial relationship between both parties. Reviewing process and helping them streamline and automate when possible to reduce friction and delays between interactions involving both sides. Helping overall in keeping positive relationships between BigCommerce and it's Partners. Being part of the overall operations I also took part in the contract provisioning of the platform's enterprise customers.",
+            "description": "As part of the Financial Operations team I joined BigCommerce to aid with their Partner Program. Helping with both the marketplace partners and agency partners with regards to the financial relationship between both parties. Reviewing process and helping them streamline and automate when possible to reduce friction and delays between interactions involving both sides. Helping overall in keeping positive relationships between BigCommerce and it's Partners. Being part of the overall operations I also took part in the contract provisioning of the platform's enterprise clients.",
             "projects":[
                 {
                     "project-id": "expwrk003prjt000",
                     "title": "Partners RevShare Reporting Congregator App",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Salesforce", "Stripe", "Snowflake", "Google Forms", "Google Sheets", "Excel", "Jira", "Pandas (Python)"]
+                    "problem": "One of the principal task was to run reports regarding monthly Partner revenue share. The data would come form distinct sources depending on the partner payment method. Data would often come in a wide range of cleanliness due to the the self reporting aspect of one of the methods.",
+                    "solution": "I created a set of python scripts that would gather the data from the distinct sources and clean it up so it could be used to link a record to their appropriate partner and partner app id.I developed a specific algorithm that would deal with the records that came form the self reporting source so it could be match to their respective id without the need to manually search for every record. The end result would be the appropriate monthly report that would result in an upsert Jira ticket that was also handled by the script.",
+                    
+                    "tools": ["Salesforce", "Stripe", "Snowflake", "Google Forms", "Google Sheets", "Excel", "Jira", "Pandas (Python)", "APIs"]
                 },
                 {
                     "project-id": "expwrk003prjt001",
-                    "title": "Documentation of Established Processes",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
+                    "title": "Processes Documentation",
+                    "problem": "The processes that I was involved in executing where taught in situ or had documentation that was scattered along various documents.",
+                    "solution": "I gathered all documentation and established a centralized knowledge base on the team's corresponding Confluence page. I set up templates of common elements, and kept a consistent styling for all pages. When deemed necessary I created diagrams to help illustrate the process in a visual and easier to understand way. I also centralized in a single repository all elements of the processes that where required to execute them, so that sharing access would be simplified.",
                     "tools": ["Confluence", "Google Docs", "LucidChart", "BPMN"]
                 },
                 {
                     "project-id": "expwrk003prjt002",
                     "title": "User Acceptance Testing",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
+                    "problem": "As part of certain projects that involved the partner program, in order to role out the new developed features, testing had to be done to verify that the changes where implemented accordingly.",
+                    "solution": "I was involved in the User Acceptance Testing, going through the newly developed features, making sure and reporting that they behaved as expected.",
                     "tools": ["Google Sheets", "Impartner", "Salesforce"]
                 },
                 {
                     "project-id": "expwrk003prjt003",
                     "title": "Report Automation",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Python", "Snowflake", "Salesforce"]
+                    "problem": "There's a need to generate a set number of reports each month. These reports would be generated manually previously.",
+                    "solution": "I develop a set of python scripts to connect with each system from which the data comes from or directly to the data warehouse to obtain the appropriate data. The script would then generate the corresponding report.",
+                    
+                    "tools": ["Python", "Snowflake", "Salesforce", "APIs"]
                 },
                 {
                     "project-id": "expwrk003prjt004",
-                    "title": "General Reporting",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
-                    "tools": ["Python", "Excel", "Google Sheets", "Salesforce", "Marketo", "Snowflake", "Stripe", "Pandas (Python)", "Google Docs", "Jira"]
+                    "title": "Partner Ticket Handling",
+                    "problem": "Partners would submit queries/request either directly to the partner program team or through their corresponding partner manager. These request would then be converted into a ticket under the partner program ticket queue.",
+                    "solution": "I handled the tickets in the partner program queue that would be submitted, helping resolve the partner's inquiries.",
+                    "tools": ["Salesforce", "Stripe", "Excel", "Zuora", "Impartner"]
                 },
                 {
                     "project-id": "expwrk003prjt005",
+                    "title": "General Reporting",
+                    "problem": "Partner managers would often require a detailed report of their partners regarding various indicators.",
+                    "solution": "I aided in generating reports to show the various indicators that the partner managers were trying to obtain.",
+                    "tools": ["Python", "Excel", "Google Sheets", "Salesforce", "Marketo", "Snowflake", "Stripe", "Pandas (Python)", "Google Docs", "Jira", "APIs"]
+                },
+                {
+                    "project-id": "expwrk003prjt006",
                     "title": "Contract Provisioning",
-                    "problem": "",
-                    "solution": "",
-                    "learned": "",
+                    "problem": "Contracting provisioning assistance was needed as part of the overall Financial Operations team.",
+                    "solution": "I helped with contracting provisioning for enterprise clients and partners.",
                     "tools": ["Salesforce", "Zuora", "Proprietary Tools", "Google Sheets"]
                 }
             ]
