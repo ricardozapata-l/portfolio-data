@@ -47,7 +47,7 @@
             "place": "",
             "area": "",
             "title": "Vue Portfolio Site",
-            "description": "I created an online portfolio website using the <span style='font-weight: bold;'>Vue framework</span>.",
+            "description": "I created an online portfolio website using the <span style='font-weight: bold;'>Vue.js framework</span>.",
             "projects":[]
         }
     ]
