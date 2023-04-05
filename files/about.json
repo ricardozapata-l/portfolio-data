@@ -151,6 +151,10 @@
             "icon": ["fas", "gear"]
         },
         {
+            "tool": "LucidChart",
+            "icon": ["fas", "gear"]
+        },
+        {
             "tool": "Linux",
             "icon": ["fab", "linux"]
         }
