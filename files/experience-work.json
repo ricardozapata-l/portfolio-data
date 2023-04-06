@@ -122,6 +122,13 @@
                     "problem": "In order to implement and improve the Machine Learning models required to expand the platform's services there was a need to recollect, as largest as possible, sets of data to feed into said models.",
                     "solution": "I recollected data through various means, from setting up surveys to searching and scrapping websites.",
                     "tools": ["SurveyMonkey", "Document Checker", "Google", "Excel", "Python", "Beautiful Soup (Python)", "Pandas (Python)"] 
+                },
+                {
+                    "project-id": "expwrk002prjt008",
+                    "title": "Labelling Tool Requirement Gathering",
+                    "problem": "In order to increase the data labelling capacity for then current and future projects there was a need to implement a labelling tool.",
+                    "solution": "I helped gather the requirements from the operations and machine learning perspective to gather and evaluate the potential data labelling tool vendors. I help setup the final labelling tool tests and coordinate the data labellers to gather insight on which vendor to choose.",
+                    "tools": ["Excel", "Powerpoint", "Asana"]
                 }
             ]
         },
